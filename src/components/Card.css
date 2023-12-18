@@ -1,0 +1,18 @@
+.Card{
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #ffffff6c;
+    background-color: rgb(116, 223, 187);
+    padding: 10px;
+    text-align: center;
+    color: #444;
+    margin-bottom:15px;
+}
+
+.content{
+    color: #444;
+}
+
+.content:hover{
+    color: #661313;
+}
